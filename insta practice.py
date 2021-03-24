@@ -7,6 +7,5 @@ print(result)
 result = add(5,6)
 print(result)
 
-result = add(7,10)
+result= add(8,9)
 print(result)
-
