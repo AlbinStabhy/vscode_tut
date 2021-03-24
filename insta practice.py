@@ -7,3 +7,6 @@ print(result)
 result = add(5,6)
 print(result)
 
+result = add(7,10)
+print(result)
+
