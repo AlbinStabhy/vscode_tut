@@ -1,6 +1,6 @@
 import pandas as pd
 import mysql.connector
-con = mysql.connector.connect(host ='localhost',port = 3306,user = 'root',password = 'poruthur')
+con = mysql.connector.connect(host ='localhost',port = 3306,user = 'root',password = '********')
 
 # viewing all databases
 try:
